@@ -32,5 +32,6 @@
 
     // Terminal
     "terminal.border": "#2A312E"
-  }
+  },
+  "liveServer.settings.port": 5501
 }
